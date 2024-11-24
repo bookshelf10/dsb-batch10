@@ -8,3 +8,5 @@ My data science and data analytics projects
 3. R programing
 4. Looker GA4 Dashoboard
 5. Linear Regression Model using caret
+
+![Galaxy](https://4kwallpapers.com/images/wallpapers/galaxy-cosmic-2560x2560-14974.jpg)
