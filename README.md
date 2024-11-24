@@ -9,4 +9,5 @@ My data science and data analytics projects
 4. Looker GA4 Dashoboard
 5. Linear Regression Model using caret
 
-![Galaxy](https://4kwallpapers.com/images/wallpapers/galaxy-cosmic-2560x2560-14974.jpg)
+## Image
+![Galaxy](https://t4.ftcdn.net/jpg/05/29/87/37/360_F_529873767_FMwTX8twWRwAI4xtk2X65THeflD7Fp9s.jpg)
